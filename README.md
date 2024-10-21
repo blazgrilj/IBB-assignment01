@@ -1,0 +1,1 @@
+Goal is to perform and evaluate fingerprint recognition, using NIST Biometric Image Software (NBIS) https://www.nist.gov/services-resources/software/nist-biometric-image-software-nbis.
